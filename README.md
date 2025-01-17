@@ -1,1 +1,1 @@
-# -CSC17107-Applications-of-Intelligent-Data-Analytics
+# CSC17107-Applications-of-Intelligent-Data-Analytics
